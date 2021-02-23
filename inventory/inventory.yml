@@ -1,0 +1,12 @@
+all:
+  hosts:
+    localhost
+  children:
+    master:
+      hosts:
+        lresende-hdp-node-1:
+    nodes:
+      hosts:
+        lresende-hdp-node-2:
+        lresende-hdp-node-3:
+        lresende-hdp-node-4:
