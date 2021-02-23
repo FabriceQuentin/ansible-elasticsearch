@@ -517,3 +517,4 @@ To define proxy globally, set the following variables:
 
 We welcome questions on how to use the role.  However, in order to keep the GitHub issues list focused on "issues" we ask the community to raise questions at https://discuss.elastic.co/c/elasticsearch.  This is monitored by the maintainers.
 # ELK
+# ansible-elasticsearch
